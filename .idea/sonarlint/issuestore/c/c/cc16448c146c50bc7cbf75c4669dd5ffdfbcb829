@@ -1,0 +1,11 @@
+
+W
+java:S1854	"<Remove this useless assignment to local variable "variable".(½¡ªèùÿÿÿÿ
+^
+java:S1612	"<Replace this lambda with method reference 'LinkedList::new'.(½¡ªèùÿÿÿÿ8·üíéı/
+H
+java:S1481	"-Remove this unused "variable" local variable.(½¡ªèùÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "list".(ÔÊğ÷
+?
+java:S1481")Remove this unused "list" local variable.(ÔÊğ÷

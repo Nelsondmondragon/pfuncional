@@ -1,0 +1,9 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(òÍ»˜øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷ôÿúÿÿÿÿ
+m
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(ÕáØ›
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‡ŠÕøÿÿÿÿ
+W
+java:S3457"AFormat specifiers should be used instead of string concatenation.(¬š§§
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡«µŸ
